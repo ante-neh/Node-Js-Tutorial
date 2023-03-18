@@ -1,0 +1,7 @@
+Welcome to  Node.js study repository!
+
+In this repository, you will find code snippets, examples, and projects related to my learning journey with Node.js.
+
+To get started, make sure you have Node.js installed on your computer. You can download the latest version of Node.js from the official website (https://nodejs.org/en/).
+
+The code in this repository covers the basics of Node.js, including setting up a development environment, creating a simple HTTP server, working with packages, and more advanced topics such as using Express.js, connecting to databases, and deploying your application to the cloud.
